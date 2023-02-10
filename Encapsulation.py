@@ -1,6 +1,6 @@
 # Auther: John Blue
 # Time: 2023/2
-# Object: display how to use continue and break
+# Object: Encapsulation
 
 
 
